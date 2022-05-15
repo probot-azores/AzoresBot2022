@@ -1,5 +1,5 @@
-# AzoresBot V2
+# AzoresBot 2022
 
 ***
 
-Working repository for the new version of AzoresBot.
+Robô da prova First Challenger para o Festival Regional de Robótica dos Açores.
