@@ -21,7 +21,7 @@ char *ROBOT_NAME = "Ultra1";
 WiFiClient wifiClient;
 PubSubClient mqttClient(wifiClient);
 
-#define mqttServer "10.1.32.16"
+#define mqttServer ""
 int mqttPort = 1883;
 
 int period = 5;
