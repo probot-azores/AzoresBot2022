@@ -11,8 +11,8 @@ Motor motor_left(25, 26, 27);
 //Ultrasonic Instance (echo, trigger)
 Sensorultra sensorsonic(22, 23);
 
-char *SSID = "LabTech";
-const char *PWD = "#*1wesDI";
+char *SSID = "";
+const char *PWD = "";
 
 //Robot Name - Must be Unique
 char *ROBOT_NAME = "Ultra1";
